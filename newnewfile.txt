@@ -1,0 +1,2 @@
+printf("Enter your email: ");
+    fgets(email, 253, stdin);
